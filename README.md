@@ -1,2 +1,2 @@
-# Prediction-of-result-of-Polls-to-establish-the-opinions-of-TORONTO-residents-on-various-topics-cover
+# Prediction-of-result-of-Polls
 Polls are typically used to indicate a population's opinion on a specific issue or suggestion. This research is based on polls performed by the Toronto municipal administration. If the City administration can foresee the ideas of citizens, businesses, and property owners in the impacted region regarding specific improvements that will be made in Toronto City, then these changes can be implemented in the city.
