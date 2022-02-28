@@ -3,7 +3,7 @@ title: "Prediction of result of Polls to establish the opinions of TORONTO resid
 author: "HaoCheng Xu, Jing Li"
 date: Feb 27, 2022
 subtitle: Paper 2
-thanks: "Code and data are available at: https://github.com/JINGLI1219/Toronto-s-Housing-Prices.git."
+thanks: "Code and data are available at: https://github.com/Jasonfallen/Prediction-of-result-of-Polls-to-establish-the-opinions-of-TORONTO-residents-on-various-topics-cover.git"
 output: pdf_document 
 ---
 
